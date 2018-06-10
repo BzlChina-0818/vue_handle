@@ -1,0 +1,32 @@
+{
+    "code": "1",
+    "list": [{
+            "label": "应用菜单树",
+            "children": [{
+                "label": "组织权限管理",
+                "children": [{
+                        "label": "角色管理",
+                        "type": "jiaose"
+                    },
+                    {
+                        "label": "员工账号管理",
+                        "type": "yuangong"
+                    }
+                ]
+            }]
+        },
+        {
+            "label": "角色树",
+            "children": [{
+                    "label": "角色管理",
+                    "type": "jiaose"
+                },
+                {
+                    "label": "员工账号管理",
+                    "type": "yuangong"
+                }
+            ]
+        }
+    ],
+    "type": "success"
+}

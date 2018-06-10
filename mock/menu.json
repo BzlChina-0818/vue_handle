@@ -1,0 +1,56 @@
+{
+    "code": "1",
+    "data": [{
+            "id": "1",
+            "tit": "组织权限管理",
+            "submenu": [{
+                    "id": "1",
+                    "cidmenu": "员工账号管理",
+                    "type": "employee"
+                },
+                {
+                    "id": "2",
+                    "cidmenu": "业务管理管理",
+                    "type": "business"
+                },
+                {
+                    "id": "3",
+                    "cidmenu": "我的申请",
+                    "type": "applyfor"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "tit": "客户管理",
+            "submenu": [{
+                    "id": "1",
+                    "cidmenu": "客户账号管理",
+                    "type": "employee"
+                },
+                {
+                    "id": "2",
+                    "cidmenu": "客户密码管理",
+                    "type": "business"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "tit": "计费账务",
+            "submenu": [{
+                    "id": "1",
+                    "cidmenu": "计费管理",
+                    "type": "employee"
+                },
+                {
+                    "id": "2",
+                    "cidmenu": "计费账务管理",
+                    "type": "business"
+                }
+            ]
+        }
+
+    ],
+    "type": "success"
+}
